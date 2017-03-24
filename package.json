@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git://github.com/aui/artTemplate.git"
   },
-  "main": "./node/template.js",
+  "main": "./dist/template-debug.js",
   "devDependencies": {
     "express": "~4.4.3",
     "grunt-cli": "*",
